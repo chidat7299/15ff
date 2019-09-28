@@ -1,0 +1,6 @@
+echo "# 15ff" >> README.md 
+git init 
+git add README.md 
+git commit -m "First commit" 
+git remote add origin https://github.com/daxua7299/15ff.git
+ git push -u
